@@ -20,6 +20,7 @@ Optical and DSM, Optical and SAR for segmentation
 
 ## Getting Started
 
+    python predict_xx.py --test_data_root dataset_path --model_path weight_path 
 
 ## Requirments
 
