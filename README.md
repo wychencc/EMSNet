@@ -9,7 +9,7 @@ Optical and DSM, Optical and SAR for segmentation
  本篇README.md面向开发者
  
 ## Models
-| Dataset     | OA          | mIoU          | Kappa          | Download(Baidu Drive)                                                     |
+| Dataset     | OA          | mIoU          | Kappa          | Download(Baidu Drive)                                           |
 | :----:      |    :----:   |       :----:  | :----:         | :----:                                                          |
 | Potsdam     | 93.1        | 82.7          | 90.4           | [Model](https://markdown.com.cn/basic-syntax/links.html)        |
 | Vaihingen   | 94.9        | 70.2          | 87.4           | [Model](https://markdown.com.cn/basic-syntax/links.html)        |
