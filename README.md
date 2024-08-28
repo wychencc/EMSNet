@@ -9,8 +9,8 @@ Optical and DSM, Optical and SAR for segmentation
  本篇README.md面向开发者
  
 ## Models
-| Dataset     | OA          | mIoU          | Kappa        |
-| :----:    |    :----:   |       :----: |
+| Dataset     | OA          | mIoU          |
+| :----:      |    :----:   |       :----:  |
 | Vaihingen   | Title       | Here's this   |
 | WHU-OPT-SAR | Text        | And more      |
 | WHU-OPT-SAR | Text        | And more      |
