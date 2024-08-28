@@ -24,7 +24,7 @@ Optical and DSM, Optical and SAR for segmentation
 
 ## Requirments
 
-1. xxxxx x.x.x
+* python
 2. xxxxx x.x.x
 
 
