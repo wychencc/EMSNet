@@ -20,17 +20,17 @@ Optical and DSM, Optical and SAR for segmentation
 
 ## Datasets
 ├─Train set <br />
-  ├─dsm(sar) <br />
-  ├─opt <br />
-  ├─lbl <br />
+|  ├─dsm(sar) <br />
+|  ├─opt <br />
+|  ├─lbl <br />
 ├─Val set <br />
-  ├─dsm(sar) <br />
-  ├─opt <br />
-  ├─lbl <br />
+|  ├─dsm(sar) <br />
+|  ├─opt <br />
+|  ├─lbl <br />
 ├─Test set <br />
-  ├─dsm(sar) <br />
-  ├─opt <br />
-  ├─lbl <br />
+|  ├─dsm(sar) <br />
+|  ├─opt <br />
+|  ├─lbl <br />
 
 ## Getting Started
 
