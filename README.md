@@ -19,7 +19,7 @@ Optical and DSM, Optical and SAR for segmentation
 | DFC2023_kd  | 90.7        | 77.1          | 73.2           | [Model](https://pan.baidu.com/s/10ZOnvlccKk0Wk7eqFUjHPQ?pwd=ied2)        |
 
 ## Datasets
-├─Train set <bar>
+├─Train set <bar />
 │ ├─dsm(sar)
 │ ├─opt
 │ ├─lbl
