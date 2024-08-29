@@ -27,7 +27,7 @@ Optical and DSM, Optical and SAR for segmentation
     python train.py --train_data_root train_path --val_data_root val_path --model_path weight_path --base_lr 0.001 --batch_size 16
 #### Predict
     python predict.py --test_data_root test_path --model_path weight_path 
-不同数据集需要修改推理脚本中的类别数量和是否统计背景
+不同数据集需要修改脚本中的类别数量和是否统计背景
 ## Requirments
 
 * python, cv2, numpy, PIL
