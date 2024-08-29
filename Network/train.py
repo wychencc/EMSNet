@@ -23,9 +23,9 @@ def parse_args():
     parser.add_argument('--dataset-name', type=str, default='six')
 
     # -===================！！！！！！！
-    parser.add_argument('--train-data-root', type=str, default='/home/wyc/data/potsdam/crop_256/train/')
-    parser.add_argument('--val-data-root', type=str, default='/home/wyc/data/potsdam/crop_256/val/')
-    parser.add_argument('--save_root', type=str, default='/home/wyc/Code/SOLC/')
+    parser.add_argument('--train-data-root', type=str, default='XXXX/train/')
+    parser.add_argument('--val-data-root', type=str, default='XXXX/val/')
+    parser.add_argument('--save_root', type=str, default='XXXX')
     parser.add_argument('--gpu_ids', type=list, default=[0])
     parser.add_argument('--weight-decay', type=float, default=1e-4, metavar='M', help='weight-decay (default:1e-4)')
 
