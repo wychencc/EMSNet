@@ -18,6 +18,20 @@ Optical and DSM, Optical and SAR for segmentation
 | DFC2023     | 89.6        | 74.2          | 69.1           | [Model](https://pan.baidu.com/s/10ZOnvlccKk0Wk7eqFUjHPQ?pwd=ied2)        |
 | DFC2023_kd  | 90.7        | 77.1          | 73.2           | [Model](https://pan.baidu.com/s/10ZOnvlccKk0Wk7eqFUjHPQ?pwd=ied2)        |
 
+## Datasets
+├─Train set
+│ ├─dsm(sar)
+│ ├─opt
+│ ├─lbl
+├─Val set
+│ ├─dsm(sar)
+│ ├─opt
+│ ├─lbl
+├─Test set
+│ ├─dsm(sar)
+│ ├─opt
+│ ├─lbl
+
 ## Getting Started
 
     python predict_xx.py --test_data_root dataset_path --model_path weight_path 
