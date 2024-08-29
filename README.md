@@ -34,8 +34,8 @@ Optical and DSM, Optical and SAR for segmentation
 
 ## Getting Started
 * Train
+    python predict_xx.py --test_data_root dataset_path --model_path weight_path 
 * Predict
-  以DFC2023数据集为例
 
     python predict_xx.py --test_data_root dataset_path --model_path weight_path 
 
