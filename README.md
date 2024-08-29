@@ -6,7 +6,7 @@ Optical and DSM, Optical and SAR for segmentation
 
 <br />
 
- 本篇README.md面向EMSNet推理使用者
+ 本篇README.md面向EMSNet使用者
 
 ## Datasets
 ├─Train set <br />
