@@ -33,9 +33,9 @@ Optical and DSM, Optical and SAR for segmentation
 &nbsp;&nbsp;  ├─lbl <br />
 
 ## Getting Started
-* Train
+#### Train
     python predict_xx.py --test_data_root dataset_path --model_path weight_path 
-* Predict
+#### Predict
     python predict_xx.py --test_data_root dataset_path --model_path weight_path 
 
 ## Requirments
